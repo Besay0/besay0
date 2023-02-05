@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning CSS.
+- ⚡ I wanna learn JavaScript, Phyton and C#.
 - 🔭 I’m student in high school.
 
 <!--
